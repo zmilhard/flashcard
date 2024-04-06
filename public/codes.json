@@ -1,0 +1,32 @@
+{
+    "codes": [
+        {
+            "code": "batman",
+            "defintion": "nothing wider than __ bunker on dorito side"
+        },
+        {
+            "code": "spiderman",
+            "defintion": "nothing wider than __ bunker on snake side"
+        },
+        {
+            "code": "hawaii",
+            "defintion": "im/your on an island"
+        },
+        {
+            "code": "red alert",
+            "defintion": "somewhere in the snake"
+        },
+        {
+            "code": "river",
+            "defintion": "move down the snake"
+        },
+        {
+            "code": "?? #",
+            "defintion": "how many bodies we lost"
+        },
+        {
+            "code": "storytime",
+            "defintion": "stfu i got the info"
+        }
+    ]
+}
